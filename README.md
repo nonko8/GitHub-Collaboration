@@ -98,7 +98,7 @@ GithubでPull requestをいただいてマージしようとすると以下の3�
 - まとめる前のコミットには戻れない
 
 ### 比較
-|Create a merge commit|Rebase and merge|Squash and merge||
+||Create a merge commit|Rebase and merge|Squash and merge|
 |:--|:--|:--|--|
 |マージコミット|あり|なし|あり|
 |マージコミットのAuthor|マージ先|-|マージ元|
