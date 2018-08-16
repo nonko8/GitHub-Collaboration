@@ -1,4 +1,8 @@
 # 概要
+GitHubとの連携関連についてのまとめ
+
+---
+
 ## Teams のコネクタで GitHub を使ってみた
 - [Teams-GitHub.md](Teams-GitHub.md)
 
